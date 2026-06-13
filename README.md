@@ -417,7 +417,7 @@ Let **Organizational Commitment (OC)** = h(EC, DE, JS)
 
 ---
 
-## 14. Academic Thesis Defense & Viva Voce Q&A Hooks
+## 14. Academic Thesis Defense Q&A Hooks
 
 **Q&A Scenario 1: Scaling Quantitative Governance Tracking**
 - **Question (Examiner):** "Your ERMI (Expropriation Risk Mitigation Index) assumes static coefficients. How would you scale this model to track governance risk across 50+ countries for a multilateral development agency?"
